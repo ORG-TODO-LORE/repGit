@@ -29,4 +29,4 @@ Host git.oschina.net
     PreferredAuthentications publickey
     User username2
 ```
-5. 使用ssh -T git@github.com测试
+5. 使用ssh -T git@github.com测试，注意！！使用管理员启动git bash！！！
